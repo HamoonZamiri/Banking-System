@@ -1,8 +1,3 @@
-//Hamoon Zamiri
-//Banking Assignment
-//2020-04-16
-//Main program
-//ICS 4U1
 import java.io.*;
 import java.text.ParseException;
 import java.util.*; 
