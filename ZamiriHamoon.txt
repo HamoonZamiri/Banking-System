@@ -1,0 +1,15 @@
+
+Description: Opened an Account
+Account: Saving Account
+Opening Balance: 100
+Date: 02/23/2022
+Amount of Transaction: 0.00
+Ending Balance: 100
+
+Description: Withdraw Cash
+Account: Saving Account
+Opening Balance: 100
+Date: 02/23/2022
+Amount of Transaction: 50.0
+Ending Balance: 50.0
+
